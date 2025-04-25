@@ -6,7 +6,7 @@
   "homepage": "https://Tatsiana-prog.github.io/yee-daa",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist --branch gh-pages",
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",

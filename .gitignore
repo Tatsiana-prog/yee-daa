@@ -8,6 +8,11 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+<<<<<<< HEAD
+=======
+dist
+dist-ssr
+>>>>>>> origin/gh-pages
 *.local
 
 # Editor directories and files

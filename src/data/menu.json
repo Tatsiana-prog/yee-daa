@@ -1,0 +1,1839 @@
+{
+    "salads": {
+        "icon": "/src//assets/icons/sidebar/icon1.svg",
+        "name": "Салаты",
+        "custom": {
+            "meat": {
+                "title": "Мясные",
+                "recipes": [
+                    {
+                        "type": "Мясной салат с капустой",
+                        "description": "Вкусный салат с мясом.",
+                        "image": "link_to_image.jpg"
+                    },
+                    {
+                        "type": "Мясной салат с кукурузой",
+                        "description": "Вкусный салат с мясом.",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "fish": {
+                "title": "Рыбные",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "warm": {
+                "title": "Теплые салаты",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            }
+        }
+    },
+    "nacks": {
+        "icon": "/src/assets/icons/sidebar/icon2.svg",
+        "name": "Закуски",
+        "custom": {
+            "meat": {
+                "title": "Мясные",
+                "recipes": [
+                    {
+                        "type": "Мясная закуска1",
+                        "description": "Вкусная закуска с мясом1",
+                        "image": "link_to_image.jpg"
+                    },
+                    {
+                        "type": "Мясная закуска2",
+                        "description": "Вкусная закуска с мясом2",
+                        "image": "link_to_image.jpg"
+                    },
+                    {
+                        "type": "Мясная закуска3 с кукурузой",
+                        "description": "Вкусный салат с мясом.",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "fish": {
+                "title": "Рыбные",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            }
+        }
+    },
+    "first courses": {
+        "icon": "/src/assets/icons/sidebar/icon3.svg",
+        "name": "Первые блюда",
+        "custom": {
+            "meat": {
+                "title": "Мясные супы",
+                "recipes": [
+                    {
+                        "type": "Мясная закуска2",
+                        "description": "Вкусная закуска с мясом2",
+                        "image": "link_to_image.jpg"
+                    },
+                    {
+                        "type": "Мясная закуска3 с кукурузой",
+                        "description": "Вкусный салат с мясом.",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "vegetable": {
+                "title": "Овощные супы",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+
+            "broths": {
+                "title": "Бульоны",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "coldsoups": {
+                "title": "Холодные супы",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "dietsoups": {
+                "title": "Диетические супы",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            }
+        }
+    },
+
+    "second courses": {
+        "name": "Вторые блюда",
+        "icon": "/src/assets/icons/sidebar/icon4.svg",
+        "custom": {
+            "meat": {
+                "title": "Мясные",
+                "recipes": [
+                    {
+                        "type": "Мясная закуска1",
+                        "description": "Вкусная закуска с мясом1",
+                        "image": "link_to_image.jpg"
+                    },
+                    {
+                        "type": "Мясная закуска2",
+                        "description": "Вкусная закуска с мясом2",
+                        "image": "link_to_image.jpg"
+                    },
+                    {
+                        "type": "Мясная закуска3 с кукурузой",
+                        "description": "Вкусный салат с мясом.",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "fish": {
+                "title": "Рыбные",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+
+            "vegetable": {
+                "title": "Овощные",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "birds": {
+                "title": "Из птицы",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "mushrooms": {
+                "title": "Из грибов",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "steamedfood": {
+                "title": "На пару",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "dough": {
+                "title": "Пельмени, вареники",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "Flour": {
+                "title": "Мучные гарниры",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "Vegetable side": {
+                "title": "Овощные гарниры",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "Pizza": {
+                "title": "Пицца",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "Sushi": {
+                "title": "Суши",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            }
+        }
+    },
+    "desserts": {
+        "name": "Десерты, выпечка",
+        "icon": "/src/assets/icons/sidebar/icon5.svg",
+        "custom": {
+            "pancakes": {
+                "title": "Блины и оладьи",
+                "recipes": [
+                    {
+                        "type": "Мясная закуска2",
+                        "description": "Вкусная закуска с мясом2",
+                        "image": "/src/assets/image/recipe/dessert/1.png"
+                    },
+                    {
+                        "type": "Мясная закуска3 с кукурузой",
+                        "description": "Вкусный салат с мясом.",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "pies": {
+                "title": "Пироги и пончики",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+
+            "Cakes": {
+                "title": "Торты",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "Rolls": {
+                "title": "Рулеты",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "сupcakes": {
+                "title": "Кексы и маффины",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "сheesecakes": {
+                "title": "Сырники и ватрушки",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "puffpastry": {
+                "title": "Из слоеного теста",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "choux pastry": {
+                "title": "Из заварного теста",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "yeastdough": {
+                "title": "Из дрожжевого теста",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "Buns": {
+                "title": "Булочки и сдоба",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "bread": {
+                "title": "Хлеб",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "pizzadough": {
+                "title": "Тесто на пиццу",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "creams": {
+                "title": "Кремы",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            }
+        }
+    },
+    "grilled Dishes": {
+        "name": "Блюда на гриле",
+        "icon": "/src/assets/icons/sidebar/icon6.svg",
+        "custom": {
+            "beef": {
+                "title": "Говядина",
+                "recipes": [
+                    {
+                        "type": "Мясная закуска1",
+                        "description": "Вкусная закуска с мясом1",
+                        "image": "link_to_image.jpg"
+                    },
+                    {
+                        "type": "Мясная закуска2",
+                        "description": "Вкусная закуска с мясом2",
+                        "image": "link_to_image.jpg"
+                    },
+                    {
+                        "type": "Мясная закуска3 с кукурузой",
+                        "description": "Вкусный салат с мясом.",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "pork": {
+                "title": "Свинина",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+
+            "bird": {
+                "title": "Птица",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "fish": {
+                "title": "Рыба",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "mushrooms": {
+                "title": "Грибы",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "vegetables": {
+                "title": "Овощи",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            }
+        }
+    },
+    "vegan cuisine": {
+        "name": "Веганская кухня",
+        "icon": "/src/assets/icons/sidebar/icon7.svg",
+        "custom": {
+            "vegan appetizers": {
+                "title": "Закуски",
+                "recipes": [
+                    {
+                        "type": "Капустные котлеты",
+                        "description": "Капустные котлеты по этому рецепту получаются необычайно пышными и  невероятно вкусными. Мягкий вкус и лёгкая пряная нотка наверняка помогут сделать эти чудесные котлеты из капусты одним из ваших любимых овощных  блюд.",
+                        "image": "/src/assets/image/recipe/vegan/1.png",
+                        "new": ""
+                    },
+                    {
+                        "type": "Мясная закуска2",
+                        "description": "Вкусная закуска с мясом2",
+                        "image": "link_to_image.jpg"
+                    },
+                    {
+                        "type": "Мясная закуска3 с кукурузой",
+                        "description": "Вкусный салат с мясом.",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "vegan first": {
+                "title": "Первые блюда",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+
+            "vegan second": {
+                "title": "Вторые блюда",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "vegan garnish": {
+                "title": "Гарниры",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "vegan desssert": {
+                "title": "Десерты",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "vegan bakery": {
+                "title": "Выпечка",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "vegan raw": {
+                "title": "Сыроедческие блюда",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "vegan drinks": {
+                "title": "Напитки",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            }
+        }
+    },
+    "children's dishes": {
+        "name": "Детские блюда",
+        "icon": "/src/assets/icons/sidebar/icon8.svg",
+        "custom": {
+            "children first": {
+                "title": "Первые блюда",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+
+            "children second": {
+                "title": "Вторые блюда",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "children garnish": {
+                "title": "Гарниры",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "children bakery": {
+                "title": "Выпечка",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "gluten": {
+                "title": "Без глютена",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "sugar": {
+                "title": "Без сахара",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "allergen": {
+                "title": "Без аллергенов",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "baby food": {
+                "title": "Блюда для прикорма",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            }
+        }
+    },
+    "national dishes": {
+        "name": "Национальные",
+        "icon": "/src/assets/icons/sidebar/icon9.svg",
+        "custom": {
+            "american cuisine": {
+                "title": "Американская кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+
+            "armenian cuisine": {
+                "title": "Армянская кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "greek cuisine": {
+                "title": "Греческая кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "georgian cuisine,": {
+                "title": "Грузинская кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "italian cuisine": {
+                "title": "Итальянская кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "spanish cuisine": {
+                "title": "Испанская кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "chinese cuisine": {
+                "title": "Китайская кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "mexican cuisine": {
+                "title": "Мексиканская кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "pan-Asian cuisine": {
+                "title": "Паназиатская кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "russian cuisine": {
+                "title": "Русская кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "turkish cuisine": {
+                "title": "Турецкая кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "french cuisine": {
+                "title": "Французская кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "swedish cuisine": {
+                "title": "Шведская кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "japanese cuisine": {
+                "title": "Японская кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "other cuisine": {
+                "title": "Другая кухня",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            }
+        }
+    },
+    "therapeutic nutrition": {
+        "name": "Лечебное питание",
+        "icon": "/src/assets/icons/sidebar/icon10.svg",
+        "custom": {
+            "children's diet": {
+                "title": "Детская диета",
+                "recipes": [
+                    {
+                        "type": "Мясная закуска1",
+                        "description": "Вкусная закуска с мясом1",
+                        "image": "link_to_image.jpg"
+                    },
+                    {
+                        "type": "Мясная закуска2",
+                        "description": "Вкусная закуска с мясом2",
+                        "image": "link_to_image.jpg"
+                    },
+                    {
+                        "type": "Мясная закуска3 с кукурузой",
+                        "description": "Вкусный салат с мясом.",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet1": {
+                "title": "Диета №1",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet2": {
+                "title": "Диета №2",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet3": {
+                "title": "Диета №3",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet4": {
+                "title": "Диета №4",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet5": {
+                "title": "Диета №5",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet6": {
+                "title": "Диета №6",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet7": {
+                "title": "Диета №7",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet8": {
+                "title": "Диета №8",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet9": {
+                "title": "Диета №9",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+
+            "diet10": {
+                "title": "Диета №10",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet11": {
+                "title": "Диета №11",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet12": {
+                "title": "Диета №12",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet13": {
+                "title": "Диета №13",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet14": {
+                "title": "Диета №14",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet glutten": {
+                "title": "Без глютена",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "diet allergen": {
+                "title": "Без аллергена",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            }
+        }
+    },
+    "sauces": {
+        "name": "Соусы",
+        "icon": "/src/assets/icons/sidebar/icon11.svg",
+        "custom": {
+            "meat sauces": {
+                "title": "Соусы мясные",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+
+            "cheese sauces": {
+                "title": "Сырные соусы",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "marinades": {
+                "title": "Маринады",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            }
+        }
+    },
+    "drinks": {
+        "name": "Напитки",
+        "icon": "/src/assets/icons/sidebar/icon12.svg",
+        "custom": {
+            "juices": {
+                "title": "Соки и фреши",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+
+            "smoothies": {
+                "title": "Смузи",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "сompotes": {
+                "title": "Компоты",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "kissels": {
+                "title": "Кисели",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "сoffee": {
+                "title": "Кофе",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "medicinal tea": {
+                "title": "Лечебный чай",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "kvass": {
+                "title": "Квасс",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "сocktails": {
+                "title": "Коктели",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "alcoholic": {
+                "title": "Алкогольные",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            }
+        }
+    },
+
+    "blanks": {
+        "name": "Заготовки",
+        "icon": "/src/assets/icons/sidebar/icon13.svg",
+        "custom": {
+            "meat preparations": {
+                "title": "Мясные заготовки",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+
+            "fish preparations": {
+                "title": "Рыбные заготовки",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "сucumber preparations": {
+                "title": "Из огурцов",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "tomato preparations": {
+                "title": "Из томатов",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "mushroom preparations": {
+                "title": "Из грибов",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "vegetable preparations": {
+                "title": "Овощные заготовки",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "salat preparations ": {
+                "title": "Салаты, икра",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            },
+            "fruits preparations": {
+                "title": "Из фруктов и ягод",
+                "recipes": [
+                    {
+                        "type": "Рыбный салат c авокадо",
+                        "description": "Легкий салат с рыбой.",
+                        "image": "link_to_image.jpg"
+                    },
+
+                    {
+                        "type": "Рыбный салат c укропом",
+                        "description": "Легкий салат с рыбой",
+                        "image": "link_to_image.jpg"
+                    }
+                ]
+            }
+        }
+    }
+}

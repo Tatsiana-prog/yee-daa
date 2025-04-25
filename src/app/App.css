@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src: url('../fonts/Inter/static/Inter_18pt-Regular.ttf') format('ttf');
+}
+
+:root {
+    --primary-color1: #c4ff61;
+    --primary-color2: #eaffc7;
+    --primary-color3: #2db100;
+    --primary-color4: #ffffd3;
+    --primary-color5: #b1ff2e;
+    --primary-color7: #d7ff94;
+    --primary-color8: #134b00;
+    --primary-color9: #2db100;
+    --black-color: #000;
+    --background-header: #ffffd3;
+    --text-color: #333;
+    --dark-light-color: rgba(0, 0, 0, 0.64);
+    --dark-light-color1: rgba(0, 0, 0, 0.48);
+}
+
+#root {
+    font-family: 'Inter', sans-serif;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    color: #000;
+}
+section {
+    padding: 0 24px;
+    overflow-y: scroll;
+}
+.limit-text {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.limit-header {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.sidebar-scroll::-webkit-scrollbar {
+    width: 8px;
+}
+
+.sidebar-scroll::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.16);
+}
+
+.sidebar-scroll::-webkit-scrollbar-thumb {
+    width: 8px;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 8px;
+}
+
+.sidebar-scroll::-ms-scrollbar {
+    width: 8px;
+}
+
+.sidebar-scroll::-ms-scrollbar-track {
+    background: rgba(0, 0, 0, 0.16);
+}
+
+.sidebar-scroll::-ms-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.4);
+}

@@ -15,41 +15,41 @@ const RecipesNew = [
     {
         category: {
             name: 'Первые блюда',
-            icon: './src/assets/icons/sidebar/icon3.svg',
+            icon: '.../../../../assets/icons/sidebar/icon3.svg',
         },
         type: 'Солянка с грибами',
         description:
             'Как раз после праздников, когда мясные продукты еще остались, но никто их уже не хочет, время варить солянку.',
-        image: '/src/assets/image/recipe/new/first/1.png',
+        image: '../../../../assets/image/recipe/new/first/1.png',
     },
     {
         category: {
             name: 'Веганские блюда',
-            icon: '/src/assets/icons/sidebar/icon7.svg',
+            icon: '../../../../assets/icons/sidebar/icon7.svg',
         },
         type: 'Капустные котлеты',
         description:
             'Капустные котлеты по этому рецепту получаются необычайно пышными и невероятно вкусными.',
-        image: '/src/assets/image/recipe/new/vegan/1.png',
+        image: '../../../../assets/image/recipe/new/vegan/1.png',
     },
     {
         category: {
             name: 'Дессерты, выпечка',
-            icon: '/src/assets/icons/sidebar/icon3.svg',
+            icon: '../../../../assets/icons/sidebar/icon3.svg',
         },
         type: 'Оладьи на кефире "Пышные"',
         description:
             'Очень вкусные и нежные оладьи на кефире. Настоятельно рекомендую пышные кефирные оладьи на завтрак.',
-        image: '/src/assets/image/recipe/new/dessert/1.png',
+        image: '../../../../assets/image/recipe/new/dessert/1.png',
     },
     {
         category: {
             name: 'Салаты',
-            icon: '/src/assets/icons/sidebar/icon1.svg',
+            icon: '../../../../assets/icons/sidebar/icon1.svg',
         },
         type: 'Салат "Здоровье"',
         description: 'Сельдерей очень полезен для здоровья, пора набираться витаминов.',
-        image: '/src/assets/image/recipe/new/salat/1.png',
+        image: '../../../../assets/image/recipe/new/salat/1.png',
     },
 ];
 

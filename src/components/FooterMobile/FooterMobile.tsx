@@ -1,9 +1,9 @@
 import { Box, Flex, Image } from '@chakra-ui/react';
 
-import IconMain from '../../../../assets/icons/icom-main.png';
-import IconPen from '../../../../assets/icons/icon-pen.png';
-import IconSearch from '../../../../assets/icons/icon-search-big.png';
-import IconUser from '../../../../assets/image/header/userimage.png';
+import IconMain from '../../assets/icons/icom-main.png';
+import IconPen from '../../assets/icons/icon-pen.png';
+import IconSearch from '../../assets/icons/icon-search-big.png';
+import IconUser from '../../assets/image/header/userimage.png';
 
 export const FooterMobile = () => (
     <Flex

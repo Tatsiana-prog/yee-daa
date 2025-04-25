@@ -10,7 +10,7 @@ import theme from '../themes/responsive-theme';
 function App() {
     return (
         <ChakraProvider theme={theme}>
-            <Router>
+            <Router basename="/yee-daa/">
                 <Routes>
                     <Route path='/' element={<Home />} />
                     <Route path='/samoe-sochnoe' element={<Juciest />} />

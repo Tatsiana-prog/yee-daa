@@ -53,7 +53,7 @@
         }
     },
     "nacks": {
-        "icon": "assets/icons/sidebar/icon2.svg",
+        "icon": "@/assets/icons/sidebar/icon1.svg",
         "name": "Закуски",
         "custom": {
             "meat": {
@@ -183,7 +183,7 @@
 
     "second courses": {
         "name": "Вторые блюда",
-        "icon": "assets/icons/sidebar/icon4.svg",
+        "icon": "@/assets/icons/sidebar/icon4.svg",
         "custom": {
             "meat": {
                 "title": "Мясные",
@@ -370,7 +370,7 @@
     },
     "desserts": {
         "name": "Десерты, выпечка",
-        "icon": "../../../assets/icons/sidebar/icon5.svg",
+        "icon": "@/assets/icons/sidebar/icon5.svg",
         "custom": {
             "pancakes": {
                 "title": "Блины и оладьи",
@@ -584,7 +584,7 @@
     },
     "grilled Dishes": {
         "name": "Блюда на гриле",
-        "icon": "../../../assets/icons/sidebar/icon6.svg",
+        "icon": "@/assets/icons/sidebar/icon6.svg",
         "custom": {
             "beef": {
                 "title": "Говядина",
@@ -691,7 +691,7 @@
     },
     "vegan cuisine": {
         "name": "Веганская кухня",
-        "icon": "../../../assets/icons/sidebar/icon7.svg",
+        "icon": "@/assets/icons/sidebar/icon7.svg",
         "custom": {
             "vegan appetizers": {
                 "title": "Закуски",

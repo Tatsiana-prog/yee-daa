@@ -128,7 +128,7 @@ export const SearchList = () => {
                             _hover={{ transform: 'scale(1.1)', borderColor: 'gray.100' }}
                         >
                             <button type='submit'>
-                                <Image src='../../assets/icons/icon-search.png' alt='icon' />
+                                <Image src='assets/icons/icon-search.png' alt='icon' />
                             </button>
                         </Box>
                     </Box>{' '}

@@ -22,7 +22,7 @@ const VeganBlockCards: VeganBlockCard[] = [
     {
         category: {
             name: 'Вторые блюда',
-            icon: '../../../public/assets/icons/sidebar/icon3.svg',
+            icon: 'assets/icons/sidebar/icon3.svg',
         },
         type: 'Картошка, тушенная с болгарским перцем и фасолью в томатном соусе',
         description:
@@ -31,7 +31,7 @@ const VeganBlockCards: VeganBlockCard[] = [
     {
         category: {
             name: 'Вторые блюда',
-            icon: '../../../public/assets/icons/sidebar/icon3.svg',
+            icon: 'assets/icons/sidebar/icon3.svg',
         },
         type: 'Капустные котлеты',
         description:
@@ -42,15 +42,15 @@ const VeganBlockCards: VeganBlockCard[] = [
 const fooddish: FoodDish[] = [
     {
         title: 'Домашние сырные палочки',
-        image: '../../../public/assets/icons/sidebar/icon10.svg',
+        image: 'assets/icons/sidebar/icon10.svg',
     },
     {
         title: 'Панкейки',
-        image: '../../../public/assets/icons/sidebar/icon8.svg',
+        image: 'assets/icons/sidebar/icon8.svg',
     },
     {
         title: 'Воздушное банановое печенье на сковороде',
-        image: '../../../public/assets/icons/sidebar/icon5.svg',
+        image: 'assets/icons/sidebar/icon5.svg',
     },
 ];
 

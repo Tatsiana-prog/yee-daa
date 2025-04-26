@@ -1,6 +1,6 @@
 import { Button, Flex, Image } from '@chakra-ui/react';
 
-import ReciepeIcon from 'assets/icons/icon-recipe.svg';
+import ReciepeIcon from '../../../public/assets/icons/icon-recipe.svg';
 import { CardStorage } from '../Metrics/CardStorage';
 import { FollowersCounter } from '../Metrics/FollowersCounter';
 import { LikeCounter } from '../Metrics/LikeCounter';

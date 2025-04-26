@@ -3,19 +3,19 @@ import { Box, Flex, Heading, Image } from '@chakra-ui/react';
 const culinar = [
     {
         name: 'Елена Высоцкая',
-        image: '../../../public/assets/image/culinarblogs/1.png',
+        image: 'assets/image/culinarblogs/1.png',
         contacts: '@elenapovar',
         text: 'Как раз после праздников, когда мясные продукты еще остались, но никто их уже не хочет, время варить солянку.',
     },
     {
         name: 'Alex Cook',
-        image: '../../../public/assets/image/culinarblogs/2.png',
+        image: 'assets/image/culinarblogs/2.png',
         contacts: '@funtasticooking',
         text: 'Как раз после праздников, когда мясные продукты еще остались, но никто их уже не хочет, время варить солянку.',
     },
     {
         name: 'Екатерина Казакова',
-        image: '../../../public/assets/image/culinarblogs/3.png',
+        image: 'assets/image/culinarblogs/3.png',
         contacts: '@bake_and_pie',
         text: 'Как раз после праздников, когда мясные продукты еще остались, но никто их уже не хочет, время варить солянку.',
     },

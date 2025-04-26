@@ -1,6 +1,6 @@
 {
     "salads": {
-        "icon": "../../../public/assets/icons/sidebar/icon1.svg",
+        "icon": "assets/icons/sidebar/icon1.svg",
         "name": "Салаты",
         "custom": {
             "meat": {
@@ -53,7 +53,7 @@
         }
     },
     "nacks": {
-        "icon": "../../../public/assets/icons/sidebar/icon1.svg",
+        "icon": "assets/icons/sidebar/icon1.svg",
         "name": "Закуски",
         "custom": {
             "meat": {
@@ -95,7 +95,7 @@
         }
     },
     "first courses": {
-        "icon": "../../../public/assets/icons/sidebar/icon3.svg",
+        "icon": "assets/icons/sidebar/icon3.svg",
         "name": "Первые блюда",
         "custom": {
             "meat": {
@@ -183,7 +183,7 @@
 
     "second courses": {
         "name": "Вторые блюда",
-        "icon": "../../../public/assets/icons/sidebar/icon4.svg",
+        "icon": "assets/icons/sidebar/icon4.svg",
         "custom": {
             "meat": {
                 "title": "Мясные",
@@ -370,7 +370,7 @@
     },
     "desserts": {
         "name": "Десерты, выпечка",
-        "icon": "../../../public/assets/icons/sidebar/icon5.svg",
+        "icon": "assets/icons/sidebar/icon5.svg",
         "custom": {
             "pancakes": {
                 "title": "Блины и оладьи",
@@ -378,7 +378,7 @@
                     {
                         "type": "Мясная закуска2",
                         "description": "Вкусная закуска с мясом2",
-                        "image": "/src/assets/image/recipe/dessert/1.png"
+                        "image": "assets/image/recipe/dessert/1.png"
                     },
                     {
                         "type": "Мясная закуска3 с кукурузой",
@@ -584,7 +584,7 @@
     },
     "grilled Dishes": {
         "name": "Блюда на гриле",
-        "icon": "../../../public/assets/icons/sidebar/icon6.svg",
+        "icon": "assets/icons/sidebar/icon6.svg",
         "custom": {
             "beef": {
                 "title": "Говядина",
@@ -691,7 +691,7 @@
     },
     "vegan cuisine": {
         "name": "Веганская кухня",
-        "icon": "../../../public/assets/icons/sidebar/icon7.svg",
+        "icon": "assets/icons/sidebar/icon7.svg",
         "custom": {
             "vegan appetizers": {
                 "title": "Закуски",
@@ -699,7 +699,7 @@
                     {
                         "type": "Капустные котлеты",
                         "description": "Капустные котлеты по этому рецепту получаются необычайно пышными и  невероятно вкусными. Мягкий вкус и лёгкая пряная нотка наверняка помогут сделать эти чудесные котлеты из капусты одним из ваших любимых овощных  блюд.",
-                        "image": "../../../public/assets/image/recipe/vegan/1.png",
+                        "image": "assets/image/recipe/vegan/1.png",
                         "new": ""
                     },
                     {
@@ -831,7 +831,7 @@
     },
     "children's dishes": {
         "name": "Детские блюда",
-        "icon": "../../../public/assets/icons/sidebar/icon8.svg",
+        "icon": "assets/icons/sidebar/icon8.svg",
         "custom": {
             "children first": {
                 "title": "Первые блюда",
@@ -966,7 +966,7 @@
     },
     "national dishes": {
         "name": "Национальные",
-        "icon": "../../../public/assets/icons/sidebar/icon9.svg",
+        "icon": "assets/icons/sidebar/icon9.svg",
         "custom": {
             "american cuisine": {
                 "title": "Американская кухня",
@@ -1213,7 +1213,7 @@
     },
     "therapeutic nutrition": {
         "name": "Лечебное питание",
-        "icon": "../../../public/assets/icons/sidebar/icon10.svg",
+        "icon": "assets/icons/sidebar/icon10.svg",
         "custom": {
             "children's diet": {
                 "title": "Детская диета",
@@ -1496,7 +1496,7 @@
     },
     "sauces": {
         "name": "Соусы",
-        "icon": "../../../public/assets/icons/sidebar/icon11.svg",
+        "icon": "assets/icons/sidebar/icon11.svg",
         "custom": {
             "meat sauces": {
                 "title": "Соусы мясные",
@@ -1551,7 +1551,7 @@
     },
     "drinks": {
         "name": "Напитки",
-        "icon": "../../../public/assets/icons/sidebar/icon12.svg",
+        "icon": "assets/icons/sidebar/icon12.svg",
         "custom": {
             "juices": {
                 "title": "Соки и фреши",
@@ -1703,7 +1703,7 @@
 
     "blanks": {
         "name": "Заготовки",
-        "icon": "../../../public/assets/icons/sidebar/icon13.svg",
+        "icon": "assets/icons/sidebar/icon13.svg",
         "custom": {
             "meat preparations": {
                 "title": "Мясные заготовки",

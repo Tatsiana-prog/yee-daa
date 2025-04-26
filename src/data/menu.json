@@ -1,6 +1,6 @@
 {
     "salads": {
-        "icon": "../assets/icons/sidebar/icon1.svg",
+        "icon": "assets/icons/sidebar/icon1.svg",
         "name": "Салаты",
         "custom": {
             "meat": {
@@ -53,7 +53,7 @@
         }
     },
     "nacks": {
-        "icon": "../assets/icons/sidebar/icon2.svg",
+        "icon": "assets/icons/sidebar/icon2.svg",
         "name": "Закуски",
         "custom": {
             "meat": {
@@ -95,7 +95,7 @@
         }
     },
     "first courses": {
-        "icon": "../assets/icons/sidebar/icon3.svg",
+        "icon": "assets/icons/sidebar/icon3.svg",
         "name": "Первые блюда",
         "custom": {
             "meat": {
@@ -183,7 +183,7 @@
 
     "second courses": {
         "name": "Вторые блюда",
-        "icon": "../assets/icons/sidebar/icon4.svg",
+        "icon": "assets/icons/sidebar/icon4.svg",
         "custom": {
             "meat": {
                 "title": "Мясные",

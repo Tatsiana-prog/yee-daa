@@ -14,11 +14,11 @@ import {
 } from '@chakra-ui/react';
 import React from 'react';
 
-import ElementIcon1 from '../../assets/icons/icon-filter.png';
-import ElementIcon2 from '../../assets/icons/icon-filter.png';
-import ElementIcon3 from '../../assets/icons/icon-filter.png';
-import ElementIcon4 from '../../assets/icons/icon-filter.png';
-import ForbidIcon from '../../assets/icons/icon-filter.png';
+import ElementIcon1 from '../../../public/assets/icons/icon-filter.png';
+import ElementIcon2 from '../../../public/assets/icons/icon-filter.png';
+import ElementIcon3 from '../../../public/assets/icons/icon-filter.png';
+import ElementIcon4 from '../../../public/assets/icons/icon-filter.png';
+import ForbidIcon from '../../../public/assets/icons/icon-filter.png';
 import { SelectList } from '../../components/SearchList/components/SelectList';
 import { SwitchWithLabel } from '../../components/SearchList/components/SwitchButton';
 
@@ -128,7 +128,7 @@ export const SearchList = () => {
                             _hover={{ transform: 'scale(1.1)', borderColor: 'gray.100' }}
                         >
                             <button type='submit'>
-                                <Image src='/src/assets/icons/icon-search.png' alt='icon' />
+                                <Image src='../../assets/icons/icon-search.png' alt='icon' />
                             </button>
                         </Box>
                     </Box>{' '}

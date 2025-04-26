@@ -14,7 +14,7 @@ import {
 import { useState } from 'react';
 import { Link as RouterLink } from 'react-router-dom';
 
-import IconExit from '../../assets/icons/icon-exit.png';
+import IconExit from '../../../public/assets/icons/icon-exit.png';
 import data from '../../data/menu.json';
 
 export const SideBar = () => {

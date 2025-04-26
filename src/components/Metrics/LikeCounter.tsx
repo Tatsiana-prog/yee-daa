@@ -1,6 +1,6 @@
 import { Button } from '@chakra-ui/react';
 
-import SmileIcon from '../../assets/icons/metrics/icon-smile.svg';
+import SmileIcon from '../../../public/assets/icons/metrics/icon-smile.svg';
 
 export const LikeCounter = () => (
     <Button

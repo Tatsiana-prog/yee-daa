@@ -73,44 +73,44 @@ const Vegan = () => (
 
                                 <TabPanels>
                                     <TabPanel>
-                                        <p>
+                                        <div>
                                             <CardsJuciest cardCount={8} />
-                                        </p>
+                                        </div>
                                     </TabPanel>
                                     <TabPanel>
-                                        <p>
+                                        <div>
                                             <CardsJuciest cardCount={8} />
-                                        </p>
+                                        </div>
                                     </TabPanel>
                                     <TabPanel>
-                                        <p>
+                                        <div>
                                             <CardsJuciest cardCount={8} />
-                                        </p>
+                                        </div>
                                     </TabPanel>
                                     <TabPanel>
-                                        <p>
+                                        <div>
                                             <CardsJuciest cardCount={8} />
-                                        </p>
+                                        </div>
                                     </TabPanel>
                                     <TabPanel>
-                                        <p>
+                                        <div>
                                             <CardsJuciest cardCount={8} />
-                                        </p>
+                                        </div>
                                     </TabPanel>
                                     <TabPanel>
-                                        <p>
+                                        <div>
                                             <CardsJuciest cardCount={8} />
-                                        </p>
+                                        </div>
                                     </TabPanel>
                                     <TabPanel>
-                                        <p>
+                                        <div>
                                             <CardsJuciest cardCount={8} />
-                                        </p>
+                                        </div>
                                     </TabPanel>
                                     <TabPanel>
-                                        <p>
+                                        <>
                                             <CardsJuciest cardCount={8} />
-                                        </p>
+                                        </>
                                     </TabPanel>
                                 </TabPanels>
                             </Tabs>

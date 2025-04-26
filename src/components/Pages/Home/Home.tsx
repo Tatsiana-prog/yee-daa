@@ -3,9 +3,9 @@ import { Link as RouterLink } from 'react-router-dom';
 
 import { FooterMobile } from '../../FooterMobile/FooterMobile';
 
-import IconArrow from '../../../assets/icons/icon-arrow.png';
+import IconArrow from '../../../../public/assets/icons/icon-arrow.png';
 import { CardsJuciest } from '../../Cards/CardsJuciest';
-import { CardsNew } from '../../Cards/CardsNew';
+import { CardsNew } from '../../Slider/Slider';
 import { Header } from '../../Header/Header';
 import { SearchList } from '../../SearchList/SearchList';
 import { SideBar } from '../../Sidebar/SideBar';

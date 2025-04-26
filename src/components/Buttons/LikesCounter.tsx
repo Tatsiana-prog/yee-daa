@@ -1,7 +1,7 @@
 import { Button } from '@chakra-ui/react';
 import { useState } from 'react';
 
-import SaveIcon from '../../assets/icons/metrics/icon-smile.svg';
+import SaveIcon from '../../../public/assets/icons/metrics/icon-smile.svg';
 
 export const LikesCounter = () => {
     const [count, setCount] = useState(0);

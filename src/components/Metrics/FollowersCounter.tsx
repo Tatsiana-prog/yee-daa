@@ -1,6 +1,6 @@
 import { Button } from '@chakra-ui/react';
 
-import FollowIcon from '../../assets/icons/metrics/icon-follow.svg';
+import FollowIcon from '../../../public/assets/icons/metrics/icon-follow.svg';
 
 export const FollowersCounter = () => (
     <Button

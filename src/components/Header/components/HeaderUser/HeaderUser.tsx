@@ -1,6 +1,6 @@
 import { Box, Flex } from '@chakra-ui/react';
 
-import userImage from '../../../../assets/image/header/userimage.png';
+import userImage from '../../../../../public/assets/image/header/userimage.png';
 import styles from './HeaderUser.module.css';
 
 export const HeaderUser = () => (

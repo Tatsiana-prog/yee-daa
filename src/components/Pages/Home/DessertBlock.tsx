@@ -22,7 +22,7 @@ const DessertBlockCards: DessertBlockCard[] = [
     {
         category: {
             name: 'Детские блюда',
-            icon: '/src/assets/icons/sidebar/icon3.svg',
+            icon: '../../../public/assets/icons/sidebar/icon3.svg',
         },
         type: 'Бананово-молочное желе',
         description:
@@ -31,7 +31,7 @@ const DessertBlockCards: DessertBlockCard[] = [
     {
         category: {
             name: 'Детские блюда',
-            icon: '/src/assets/icons/sidebar/icon3.svg',
+            icon: '../../../public/assets/icons/sidebar/icon3.svg',
         },
         type: 'Нежный сливочно-сырный крем для кексов',
 
@@ -43,15 +43,15 @@ const DessertBlockCards: DessertBlockCard[] = [
 const fooddish: FoodDish[] = [
     {
         title: 'Домашние сырные палочки',
-        image: '/src/assets/icons/sidebar/icon10.svg',
+        image: '../../../public/assets/icons/sidebar/icon10.svg',
     },
     {
         title: 'Панкейки',
-        image: '/src/assets/icons/sidebar/icon8.svg',
+        image: '../../../public/assets/icons/sidebar/icon8.svg',
     },
     {
         title: 'Воздушное банановое печенье на сковороде',
-        image: '/src/assets/icons/sidebar/icon5.svg',
+        image: '../../../public/assets/icons/sidebar/icon5.svg',
     },
 ];
 

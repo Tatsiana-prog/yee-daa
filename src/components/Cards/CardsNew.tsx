@@ -15,41 +15,41 @@ const RecipesNew = [
     {
         category: {
             name: 'Первые блюда',
-            icon: '../../../assets/icons/sidebar/icon3.svg',
+            icon: '../../assets/icons/sidebar/icon3.svg',
         },
         type: 'Солянка с грибами',
         description:
             'Как раз после праздников, когда мясные продукты еще остались, но никто их уже не хочет, время варить солянку.',
-        image: '../../../assets/image/recipe/new/first/1.png',
+        image: '../../assets/image/recipe/new/first/1.png',
     },
     {
         category: {
             name: 'Веганские блюда',
-            icon: '../../../assets/icons/sidebar/icon7.svg',
+            icon: '../../assets/icons/sidebar/icon7.svg',
         },
         type: 'Капустные котлеты',
         description:
             'Капустные котлеты по этому рецепту получаются необычайно пышными и невероятно вкусными.',
-        image: '../../../assets/image/recipe/new/vegan/1.png',
+        image: '../../assets/image/recipe/new/vegan/1.png',
     },
     {
         category: {
             name: 'Дессерты, выпечка',
-            icon: '../../../assets/icons/sidebar/icon3.svg',
+            icon: '../../assets/icons/sidebar/icon3.svg',
         },
         type: 'Оладьи на кефире "Пышные"',
         description:
             'Очень вкусные и нежные оладьи на кефире. Настоятельно рекомендую пышные кефирные оладьи на завтрак.',
-        image: '../../../assets/image/recipe/new/dessert/1.png',
+        image: '../../assets/image/recipe/new/dessert/1.png',
     },
     {
         category: {
             name: 'Салаты',
-            icon: '../../../assets/icons/sidebar/icon1.svg',
+            icon: '../../assets/icons/sidebar/icon1.svg',
         },
         type: 'Салат "Здоровье"',
         description: 'Сельдерей очень полезен для здоровья, пора набираться витаминов.',
-        image: '../../../assets/image/recipe/new/salat/1.png',
+        image: '../../assets/image/recipe/new/salat/1.png',
     },
 ];
 
@@ -118,7 +118,7 @@ const RecipeCard = ({ recipe }: { recipe: (typeof RecipesNew)[0] }) => (
             height='230px'
             width='100%'
             src={recipe.image || '/placeholder.svg'}
-            alt={recipe.type}
+            alt="image"
             objectFit='cover'
             borderTopLeftRadius='8px'
             borderTopRightRadius='8px'
@@ -137,7 +137,7 @@ const RecipeCard = ({ recipe }: { recipe: (typeof RecipesNew)[0] }) => (
                     <Box>
                         <Image
                             src={recipe.category.icon || '/placeholder.svg'}
-                            alt={recipe.category.name}
+                            alt="icon"
                             boxSize='16px'
                         />
                     </Box>
